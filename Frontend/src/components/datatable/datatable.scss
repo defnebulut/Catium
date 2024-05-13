@@ -1,0 +1,199 @@
+.datatable-container {
+  height: 600px;
+  padding: 20px;
+
+  .dataGrid{
+    color: rgb(0, 0, 0);
+  }
+  .searchBar {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  
+    input[type="text"] {
+      padding: 8px;
+      font-size: 16px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      width: 400px;
+      
+    }
+  
+    .clearButton {
+      
+      background-color: #f44336;
+      color: white;
+      border: none;
+      padding: 10px 16px;
+      border-radius: 3px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+  
+      &:hover {
+        background-color: #d32f2f;
+      }
+    }
+  }
+  
+  .datatableTitle{
+    width: 100%;
+    font-size: 24px;
+    color: gray;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+
+    .link{
+      text-decoration: none;
+      color: green;
+      font-size: 16px;
+      font-weight: 400;
+      border: 1px solid green;
+      padding: 5px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+  }
+
+  .cellWithImg {
+    display: flex;
+    align-items: center;
+
+    .cellImg {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-right: 20px;
+    }
+  }
+
+  .cellWithStatus {
+    padding: 5px;
+    border-radius: 5px;
+
+    &.active {
+      background-color: rgba(0, 128, 0, 0.05);
+      color: green;
+    }
+    &.pending {
+      background-color: rgba(255, 217, 0, 0.05);
+      color: goldenrod;
+    }
+    &.passive {
+      background-color: rgba(255, 0, 0, 0.05);
+      color: crimson;
+    }
+  }
+
+  .cellAction {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+    .viewButton {
+      padding: 2px 5px;
+      border-radius: 5px;
+      color: darkblue;
+      border: 1px dotted rgba(0, 0, 139, 0.596);
+      cursor: pointer;
+    }
+    
+    .deleteButton {
+      padding: 2px 5px;
+      border-radius: 5px;
+      color: crimson;
+      border: 1px dotted rgba(220, 20, 60, 0.6);
+      cursor: pointer;
+    }
+  }
+  .popup-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .popup {
+    background-color: #fff;
+    padding: 16px;
+    border-radius: 4px;
+    max-width: 400px;
+    width: 100%;
+  }
+  
+  .popup-content {
+    margin-bottom: 16px;
+  }
+  
+  .popup h2 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+  
+  .popup p {
+    margin-bottom: 8px;
+  }
+  
+  .closeButton {
+    cursor: pointer;
+    background-color: #1976d2;
+    color: #fff;
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+  
+  .closeButton:hover {
+    background-color: #1565c0;
+  }
+  .imageContainer {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .itemImg {
+    max-width: 100%;
+    height: auto;
+  }
+  .confirmationButtons {
+    display: flex;
+    justify-content: center;
+    margin-top: 16px;
+  }
+  .confirmButton {
+    cursor: pointer;
+    background-color: #1976d2;
+    color: #fff;
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-size: 14px;
+    margin-right: 10px;
+  }
+  
+  .confirmButton:hover {
+    background-color: #1565c0;
+  }
+  .cancelButton {
+    cursor: pointer;
+    background-color: #1976d2;
+    color: #fff;
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-size: 14px;
+    margin-left: 20px;
+    margin-right : 15px;
+  }
+  
+  .cancelButton:hover {
+    background-color: #1565c0;
+  }
+}

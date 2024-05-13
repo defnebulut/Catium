@@ -1,0 +1,38 @@
+import { StyleSheet,Dimensions } from "react-native";
+
+export default StyleSheet.create({
+container:{
+        flex:1,
+        padding:10,
+        backgroundColor:'white'
+    },
+    ppBadgeContainer:{
+        flexDirection: 'row',
+        alignItems: 'center',
+        justifyContent:"space-between"
+    },
+    
+    pp:{
+        borderRadius:50,
+        width:100,
+        height:100,
+        marginLeft:Dimensions.get('screen').width*0.05
+    },
+    nameContainer:{
+        marginVertical:10,
+        marginLeft:Dimensions.get('screen').width*0.09
+    },
+    name:{
+        
+        fontWeight:"bold",
+        fontSize:15,
+    },
+    bioContainer:{
+        margin:5,
+        marginBottom:20
+    },
+    bio:{
+        textAlign:"center",
+        
+    }
+})    

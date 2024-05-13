@@ -1,0 +1,10 @@
+C:\Users\dbulu\source\repos\Catium_Project\Backend\CleanArchitecture\CleanArchitecture.Application\bin\Debug\netstandard2.1\CleanArchitecture.Core.deps.json
+C:\Users\dbulu\source\repos\Catium_Project\Backend\CleanArchitecture\CleanArchitecture.Application\bin\Debug\netstandard2.1\CleanArchitecture.Core.dll
+C:\Users\dbulu\source\repos\Catium_Project\Backend\CleanArchitecture\CleanArchitecture.Application\bin\Debug\netstandard2.1\CleanArchitecture.Core.pdb
+C:\Users\dbulu\source\repos\Catium_Project\Backend\CleanArchitecture\CleanArchitecture.Application\obj\Debug\netstandard2.1\CleanArchitecture.Core.csproj.AssemblyReference.cache
+C:\Users\dbulu\source\repos\Catium_Project\Backend\CleanArchitecture\CleanArchitecture.Application\obj\Debug\netstandard2.1\CleanArchitecture.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dbulu\source\repos\Catium_Project\Backend\CleanArchitecture\CleanArchitecture.Application\obj\Debug\netstandard2.1\CleanArchitecture.Core.AssemblyInfoInputs.cache
+C:\Users\dbulu\source\repos\Catium_Project\Backend\CleanArchitecture\CleanArchitecture.Application\obj\Debug\netstandard2.1\CleanArchitecture.Core.AssemblyInfo.cs
+C:\Users\dbulu\source\repos\Catium_Project\Backend\CleanArchitecture\CleanArchitecture.Application\obj\Debug\netstandard2.1\CleanArchitecture.Core.csproj.CoreCompileInputs.cache
+C:\Users\dbulu\source\repos\Catium_Project\Backend\CleanArchitecture\CleanArchitecture.Application\obj\Debug\netstandard2.1\CleanArchitecture.Core.dll
+C:\Users\dbulu\source\repos\Catium_Project\Backend\CleanArchitecture\CleanArchitecture.Application\obj\Debug\netstandard2.1\CleanArchitecture.Core.pdb

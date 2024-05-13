@@ -1,0 +1,17 @@
+C:\Users\dbulu\Source\Repos\Catium_Project\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Release\net6.0\CleanArchitecture.Infrastructure.deps.json
+C:\Users\dbulu\Source\Repos\Catium_Project\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Release\net6.0\CleanArchitecture.Infrastructure.runtimeconfig.json
+C:\Users\dbulu\Source\Repos\Catium_Project\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Release\net6.0\CleanArchitecture.Infrastructure.dll
+C:\Users\dbulu\Source\Repos\Catium_Project\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Release\net6.0\ref\CleanArchitecture.Infrastructure.dll
+C:\Users\dbulu\Source\Repos\Catium_Project\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Release\net6.0\CleanArchitecture.Infrastructure.pdb
+C:\Users\dbulu\Source\Repos\Catium_Project\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Release\net6.0\CleanArchitecture.Core.dll
+C:\Users\dbulu\Source\Repos\Catium_Project\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Release\net6.0\CleanArchitecture.Core.pdb
+C:\Users\dbulu\Source\Repos\Catium_Project\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Release\net6.0\CleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\dbulu\Source\Repos\Catium_Project\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Release\net6.0\CleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dbulu\Source\Repos\Catium_Project\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Release\net6.0\CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\dbulu\Source\Repos\Catium_Project\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Release\net6.0\CleanArchitecture.Infrastructure.AssemblyInfo.cs
+C:\Users\dbulu\Source\Repos\Catium_Project\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Release\net6.0\CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\dbulu\Source\Repos\Catium_Project\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Release\net6.0\CleanArchitecture.Infrastructure.csproj.CopyComplete
+C:\Users\dbulu\Source\Repos\Catium_Project\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Release\net6.0\CleanArchitecture.Infrastructure.dll
+C:\Users\dbulu\Source\Repos\Catium_Project\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Release\net6.0\ref\CleanArchitecture.Infrastructure.dll
+C:\Users\dbulu\Source\Repos\Catium_Project\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Release\net6.0\CleanArchitecture.Infrastructure.pdb
+C:\Users\dbulu\Source\Repos\Catium_Project\Backend\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Release\net6.0\CleanArchitecture.Infrastructure.genruntimeconfig.cache

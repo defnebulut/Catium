@@ -1,0 +1,135 @@
+.app.dark {
+  background-color: #202020;
+  color: rgb(156, 156, 156);
+
+  
+    .inputs_container{
+      color: white;
+    }
+    .login_button{
+      color: white;
+      background-color: black;
+    }
+    .inputs_container input{
+      color: white;
+    }
+  
+
+    
+    .searchBar input[type="text"] {
+
+      color: greenyellow;
+
+    }
+  
+
+
+  .popup{
+    background-color: rgb(0, 0, 0);
+    input{
+      color: greenyellow;
+    }
+  }
+  
+
+  .widget{
+    .left{
+      .title{
+        color: white;
+      }
+    
+    }
+  }
+  .new{
+    .newContainer{
+      .bottom{
+        .right{
+          form{
+            .formInput{
+              color: green;
+              input{
+                color: rgb(0, 255, 13);
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+
+  .datatable-container{
+    .dataGrid{
+      color: white;
+    }
+    .cellAction{
+      .viewButton{
+        color: rgb(133, 141, 243);
+        background-color: rgb(0, 0, 0);
+      }
+      .deleteButton{
+        color: red;
+        background-color: #202020;
+      }
+    }
+  }
+  
+  
+
+  .chartGrid {
+    stroke: rgba(228, 228, 228, 0.219);
+  }
+
+  .table {
+    background-color: #202020;
+
+    .tableCell {
+      color: rgb(255, 255, 255);
+    }
+  }
+
+  .navbar {
+    color: #999;
+    border-color: #202020;
+
+    .search {
+      border-color: gray;
+    }
+  }
+
+  .sidebar {
+    
+    background-color: #202020;
+    border-color: #333;
+
+    span{
+      color: white;
+   }
+    .top {
+      .logo {
+        color: #999;
+      }
+    }
+    hr {
+      border-color: #333;
+    }
+
+    ul {
+      li {
+        &:hover {
+          background-color: #333;
+        }
+
+        .icon {
+          color: #999;
+        }
+      }
+    }
+  }
+
+
+
+  input{
+      background-color: transparent;
+  }
+}

@@ -1,0 +1,5 @@
+C:\Users\dbulu\Source\Repos\Catium_Project\Backend\Tests\CleanArchitecture.Infrastructure.Tests\obj\Debug\net6.0\CleanArchitecture.Infrastructure.Tests.csproj.AssemblyReference.cache
+C:\Users\dbulu\Source\Repos\Catium_Project\Backend\Tests\CleanArchitecture.Infrastructure.Tests\obj\Debug\net6.0\CleanArchitecture.Infrastructure.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dbulu\Source\Repos\Catium_Project\Backend\Tests\CleanArchitecture.Infrastructure.Tests\obj\Debug\net6.0\CleanArchitecture.Infrastructure.Tests.AssemblyInfoInputs.cache
+C:\Users\dbulu\Source\Repos\Catium_Project\Backend\Tests\CleanArchitecture.Infrastructure.Tests\obj\Debug\net6.0\CleanArchitecture.Infrastructure.Tests.AssemblyInfo.cs
+C:\Users\dbulu\Source\Repos\Catium_Project\Backend\Tests\CleanArchitecture.Infrastructure.Tests\obj\Debug\net6.0\CleanArchitecture.Infrastructure.Tests.csproj.CoreCompileInputs.cache
